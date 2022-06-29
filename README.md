@@ -1,8 +1,3 @@
-
-<!---
-gabferreiradev/gabferreiradev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <h1 align="center">Olá 👋, sou Gabriela Ferreira</h1>
 <h3 align="center">Uma apaixonada desenvolvedora de front-end do Brasil</h3>
 
